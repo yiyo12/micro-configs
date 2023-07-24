@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: Config-dev
+#spring:
+  #application:
+    #name: Config-dev
 
 eureka:
   instance: #indicamos la instancia
