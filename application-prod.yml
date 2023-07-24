@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: Config-prod
+#spring:
+  #application:
+    #name: Config-prod
 
 eureka:
   instance: #indicamos la instancia
