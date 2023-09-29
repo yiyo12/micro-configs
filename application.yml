@@ -14,3 +14,4 @@ eureka:
 test:
   JC: esto es un test
   MAIN: Esto lo agrege a main desde github
+  MAIN3: Esto lo agrege desde mi local FixTestJC1
